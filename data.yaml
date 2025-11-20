@@ -1,0 +1,13 @@
+path: /kaggle/working/dataset
+train: images/train
+val: images/val
+
+nc: 7
+names: 
+  - 'Backpack'
+  - 'Jacket'
+  - 'Laptop'
+  - 'Lifering'
+  - 'MobilePhone'
+  - 'Person1'
+  - 'WaterBottle'
